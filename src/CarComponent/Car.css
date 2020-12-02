@@ -1,0 +1,12 @@
+.first{
+    background: salmon;
+    margin-bottom: 5px;
+    width: 50%;
+    height: 40px;
+}
+.second{
+    background: gray;
+    margin-bottom: 5px;
+    width: 50%;
+    height: 40px;
+}
